@@ -1,0 +1,1 @@
+Toto je soubor obsahující "něco", určen ke "commitu" přes git.
