@@ -1,1 +1,1 @@
-Toto je soubor obsahující "něco", určen ke "commitu" přes git.
+Druhý řádek v souboru, zároveň se jedná o jeho PRVNÍ změnu.
